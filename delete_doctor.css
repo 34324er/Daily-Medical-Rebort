@@ -1,0 +1,24 @@
+
+body{
+    background-color: #fff;
+}
+.container{
+    margin: 5rem 2rem;
+}
+
+form input[type="text"]{
+    width:400px;
+    padding: 10px;
+}
+form input[type="submit"]{
+    width: 100px;
+    height:39px;
+     margin-left: 10px;
+     background-color: red;
+     color:#fff;
+     font-size: 15px;
+     border: none;
+     border-radius: 2px;
+
+}
+
